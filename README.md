@@ -17,3 +17,9 @@ some java exercise code
 |   4   | 二维数组    | [2DArray](./Java_Base/ControlStruct/example2Darray.java)|
 |   5   | 输入输出    | [IO](./Java_Base/ControlStruct/exampleInput.java)|
 ### Java面向对象编程
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   |  构造函数（constructor）| [constructor](./Java_Base/OrientObjectProgram/Constructor.java) |
+|   2   |  静态域与静态方法（static field） | [StaticField](./Java_Base/OrientObjectProgram/StaticCounts.java) |
+|   3   |  构造静态对象（static object） | [StaticObject](./Java_Base/OrientObjectProgram/StaticConstructSelf.java) |
+|   4   |   继承（inherited）| [Inherited](./Java_Base/OrientObjectProgram/Inherited.java) |
