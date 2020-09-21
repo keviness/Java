@@ -3,6 +3,8 @@
 *@version 2020/9/20
 */
 
+package InheritSalaryManage;
+
 public class Manager extends Employee
 {
     private double bonus;
@@ -20,7 +22,7 @@ public class Manager extends Employee
         return baseSalary+bonus;
     }
 
-    public SetBonus(double bonus)
+    public void SetBonus(double bonus)
     {
         this.bonus = bonus;
     }

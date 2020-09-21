@@ -3,7 +3,10 @@
 *@version 2020/9/20
 */
 
+package InheritSalaryManage;
+
 import java.time.*;
+
 public class Employee
 {
     private String name;

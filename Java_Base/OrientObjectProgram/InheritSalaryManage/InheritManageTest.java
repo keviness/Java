@@ -22,7 +22,7 @@ public class InheritManageTest
         for (Employee employee : employees)
         {
             System.out.printf("The name: %s  get salary:%f ",
-                              example.GetName(), employee.GetSalary());
+                              employee.GetName(), employee.GetSalary());
         }
     }
 }
