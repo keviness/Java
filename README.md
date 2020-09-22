@@ -22,4 +22,6 @@ some java exercise code
 |   1   |  构造函数（constructor）| [constructor](./Java_Base/OrientObjectProgram/Constructor.java) |
 |   2   |  静态域与静态方法（static field） | [StaticField](./Java_Base/OrientObjectProgram/StaticCounts.java) |
 |   3   |  构造静态对象（static object） | [StaticObject](./Java_Base/OrientObjectProgram/StaticConstructSelf.java) |
-|   4   |   继承（inherited）| [Inherited](./Java_Base/OrientObjectProgram/Inherited.java) |
+|   4   |   继承（inherited）1:薪水管理系统实现| [Salary Manage](./Java_Base/OrientObjectProgram/InheritSalaryManage/) |
+|   5   |   继承（inherited）2:学生系统实现|  [Student Manage](./Java_Base/OrientObjectProgram/InheritStudentManage.java)|
+|   6   |   多态（polymorphic）| [polymorphic](./Java_Base/OrientObjectProgram/Polymorphic.java)|
