@@ -16,9 +16,10 @@ some java exercise code
 |   3   | 数组        | [Array](./Java_Base/ControlStruct/exampleArray.java)|
 |   4   | 二维数组    | [2DArray](./Java_Base/ControlStruct/example2Darray.java)|
 |   5   | 输入输出    | [IO](./Java_Base/ControlStruct/exampleInput.java)|
+
 ### Java面向对象编程
-| Index | Description | Code |
-|:-----:|:-----------:|:----:|
+| Index | Description | Code |  Note |
+|:-----:|:-----------:|:----:|:-----:|
 |   1   |  构造函数（constructor）| [constructor](./Java_Base/OrientObjectProgram/Constructor.java) |
 |   2   |  静态域与静态方法（static field） | [StaticField](./Java_Base/OrientObjectProgram/StaticCounts.java) |
 |   3   |  构造静态对象（static object） | [StaticObject](./Java_Base/OrientObjectProgram/StaticConstructSelf.java) |
@@ -27,4 +28,4 @@ some java exercise code
 |   6   |   多态（polymorphic）| [polymorphic](./Java_Base/OrientObjectProgram/Polymorphic.java)|
 |   7   |   抽象类（abstract）| [Abstract](./Java_Base/OrientObjectProgram/Abstract.java)|
 |   8   |   接口（Interface）  | [Interface](./Java_Base/OrientObjectProgram/Interface.java)|
-|   9   |   包（package）|  [Interface](./Java_Base/OrientObjectProgram/Interface.java)|
+|   9   |   包（package）|  [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Interface](./Java_Base/OrientObjectProgram/Notes/package.md) |
