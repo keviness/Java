@@ -27,5 +27,7 @@ some java exercise code
 |   5   |   继承（inherited）2:学生系统实现|  [Student Manage](./Java_Base/OrientObjectProgram/InheritStudentManage.java)|
 |   6   |   多态（polymorphic）| [polymorphic](./Java_Base/OrientObjectProgram/Polymorphic.java)|
 |   7   |   抽象类（abstract）| [Abstract](./Java_Base/OrientObjectProgram/Abstract.java)|
-|   8   |   接口（Interface）  | [Interface](./Java_Base/OrientObjectProgram/Interface.java)|
-|   9   |   包（package）|  [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Interface](./Java_Base/OrientObjectProgram/Notes/package.md) |
+|   8   |   接口（Interface）  | [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Interface](./Java_Base/OrientObjectProgram/Notes/Interface.md)|
+|   9   |   包（package）|  [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Package](./Java_Base/OrientObjectProgram/Notes/package.md) |
+
+### Java进阶
