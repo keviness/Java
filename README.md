@@ -31,3 +31,11 @@ some java exercise code
 |   9   |   包（package）|  [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Package](./Java_Base/OrientObjectProgram/Notes/package.md) |
 
 ### Java进阶
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   | 捕获异常（catch exception）| [Catch Exception](./Java_Enhance/ExceptionCatch/TryCatch.java) |
+|   2   | 常见异常1（Divide Exception）| [Divide Exception](./Java_Enhance/ExceptionCatch/DivideException.java) |
+|   3   | 常见异常2（IO Exception）| [IO Exception](./Java_Enhance/ExceptionCatch/IOException.java)|
+|   3   | 自定义异常(1):Override Exception| [Override Exception](./Java_Enhance/ExceptionHandle/ExceptionOverride.java)|
+|   4   | 自定义异常(2):Throws Exception| [Throws Exception](./Java_Enhance/ExceptionHandle/ThrowException.java)|
+|   5   | 自定义异常(3):Extends Exception| [Extends Exception](./Java_Enhance/ExceptionHandle/ExceptionExtends.java) |
