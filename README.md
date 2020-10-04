@@ -31,6 +31,8 @@ some java exercise code
 |   9   |   包（package）|  [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Package](./Java_Base/OrientObjectProgram/Notes/package.md) |
 
 ### Java进阶
+
+#### 异常（Exception）
 | Index | Description | Code |
 |:-----:|:-----------:|:----:|
 |   1   | 捕获异常（catch exception）| [Catch Exception](./Java_Enhance/ExceptionCatch/TryCatch.java) |
@@ -39,3 +41,11 @@ some java exercise code
 |   3   | 自定义异常(1):Override Exception| [Override Exception](./Java_Enhance/ExceptionHandle/ExceptionOverride.java)|
 |   4   | 自定义异常(2):Throws Exception| [Throws Exception](./Java_Enhance/ExceptionHandle/ThrowException.java)|
 |   5   | 自定义异常(3):Extends Exception| [Extends Exception](./Java_Enhance/ExceptionHandle/ExceptionExtends.java) |
+
+#### 核心类（Main-Class）
+##### String object
+| Index | Description | Code | Notes |
+|:-----:|:-----------:|:----:|:-----:|
+|   1   |String常用方法|  [String methods ](./Java_Enhance/Object/StringObject/StringTest.java) |
+|   2   | StringBuffer|  [String Buffer](./Java_Enhance/Object/StringObject/StringBufferTest.java)|
+|   3   | StringJoiner| [String Joiner](./Java_Enhance/Object/StringObject/StringJoinerTest.java)|
