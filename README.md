@@ -43,9 +43,16 @@ some java exercise code
 |   5   | 自定义异常(3):Extends Exception| [Extends Exception](./Java_Enhance/ExceptionHandle/ExceptionExtends.java) |
 
 #### 核心类（Main-Class）
+
 ##### String object
-| Index | Description | Code | Notes |
-|:-----:|:-----------:|:----:|:-----:|
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
 |   1   |String常用方法|  [String methods ](./Java_Enhance/Object/StringObject/StringTest.java) |
-|   2   | StringBuffer|  [String Buffer](./Java_Enhance/Object/StringObject/StringBufferTest.java)|
+|   2   | StringBuffer| [String Buffer](./Java_Enhance/Object/StringObject/StringBufferTest.java)|
 |   3   | StringJoiner| [String Joiner](./Java_Enhance/Object/StringObject/StringJoinerTest.java)|
+
+##### Array object
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   |    copyOf   | [Array copyOf](./Java_Enhance/Object/ArrayObject/ArrayCopyOf.java) |
+|   2   |  数组应用实例| [Array GetRandomNuber](./Java_Enhance/Object/ArrayObject/GetRandomNumber.java)|
