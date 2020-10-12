@@ -55,4 +55,6 @@ some java exercise code
 | Index | Description | Code |
 |:-----:|:-----------:|:----:|
 |   1   |    copyOf   | [Array copyOf](./Java_Enhance/Object/ArrayObject/ArrayCopyOf.java) |
-|   2   |  数组应用实例| [Array GetRandomNuber](./Java_Enhance/Object/ArrayObject/GetRandomNumber.java)|
+|   2   |  数组应用实例：随机数组| [Array GetRandomNuber](./Java_Enhance/Object/ArrayObject/GetRandomNumber.java)|
+|   3   |  数组存储示例：引用数据数组 | [Array ObjectArray](./Java_Enhance/Object/ArrayObject/ArrayPolymorphic.java)|
+|   4   |   二维数组  | [Array NdArray](./Java_Enhance/Object/ArrayObject/ndArray.java) |
