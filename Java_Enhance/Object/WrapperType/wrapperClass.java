@@ -10,7 +10,7 @@ public class wrapperClass
     public static void main(String[] args)
     {
         //Auto Boxing and Auto unboxing
-        /*
+        
         int i = 10;
         Integer value = Integer.valueOf(i);
         System.out.println("The integer value:" + value);
@@ -25,7 +25,6 @@ public class wrapperClass
 
         //int x = new Integer("40");    //out time!
         //System.out.println("The x:" + x);
-        */
 
         //String to numbers
         Integer a = Integer.parseInt("123");
@@ -37,11 +36,18 @@ public class wrapperClass
         Long d = Long.parseLong("123");
         System.out.println("a+b+c+d: "+ (a+b+c+d));
 
+        /*
         //int type convert  Out time!
         Number num = new Integer("100");
         byte e = num.byteValue();
         System.out.println("e: " + e);
         int f = num.intValue();
-        System.out.println("f: " + f); 
+        System.out.println("f: " + f);
+        */
+
+        Integer g = 128;
+        Integer h = 128;
+        System.out.println("==" + (g == h));
+        System.out.println("object.equals()" + g.equals(h));
     }
 }
