@@ -11,8 +11,7 @@ public class DateObject
     public static void main(String[] args) throws Exception
     {
         Date nowTime = new Date();
-        SimpleDateFormat dateStrFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss SSS");
-
+        SimpleDateFormat dateStrFormat = new SimpleDateFormat("yyy-MM-dd HH:mm:ss SSS");
         String timeStr = dateStrFormat.format(nowTime);
         //System.out.println("The time is: " + dateStrFormat);
         System.out.println("The time string is: " + timeStr);
@@ -30,5 +29,11 @@ public class DateObject
         }
         long end = System.currentTimeMillis();
         System.out.println("The time used: "+(end-start));
+
+        //Date(long value)
+        Date time1 = new Date(System.currentTimeMillis() - 24*60*60*1000);
+        //SimpleDateFormat timeFormat = new SimpleDateFormat("YYYY-MM-dd HH:MM:SS SSSS");
+        String lastDayTime = timeFormat.format(time1);
+        System.out.println("THe yestrday time: " + lastDayTime);
     }
 }
