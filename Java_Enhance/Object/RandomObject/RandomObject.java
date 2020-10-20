@@ -4,14 +4,19 @@
 */
 
 import java.util.*;
+import java.security.SecureRandom;
 
 public class RandomObject
 {
     public static void main(String[] args)
     {
+        //SecureRandom
+        SecureRandom srd = new SecureRandom();
+        System.out.println("The secure random: " + srd.nextInt());
+
         Random rd = new Random();
         int[] array = new int[5];
-        int value = -1;
+        int value = 0;
         int index = 0;
         for (int j=0; j<array.length; j++)
         {

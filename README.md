@@ -62,4 +62,9 @@ some java exercise code
 ##### Date Object
 | Index | Description | Code |
 |:-----:|:-----------:|:----:|
-|   1   | java时间管理 | [Java Data](./Java_Enhance/Object/DateObject/DateObject.java) |
+|   1   | java Date Object | [Java Data](./Java_Enhance/Object/DateObject/DateObject.java) |
+
+##### Random Object
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   | Random Object| [Java RandomObject](./Java_Enhance/Object/RandomObject/RandomObject.java) |
