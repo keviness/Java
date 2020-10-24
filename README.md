@@ -68,3 +68,10 @@ some java exercise code
 | Index | Description | Code |
 |:-----:|:-----------:|:----:|
 |   1   | Random Object| [Java RandomObject](./Java_Enhance/Object/RandomObject/RandomObject.java) |
+
+##### Record Object and Enumerate Object
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   |record object| [Record Object](./Java_Enhance/Object/RecordObject/recordObject.java) |
+|   2   |Anonymous Inner class| [Anonymous Inner class](./Java_Enhance/Object/RandomObject/AnonymousInnerClass.java)|
+|   3   | Hash Code | [Record Object](./Java_Enhance/Object/RecordObject/recordObject.java) |
