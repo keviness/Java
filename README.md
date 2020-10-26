@@ -75,3 +75,9 @@ some java exercise code
 |   1   |record object| [Record Object](./Java_Enhance/Object/RecordObject/recordObject.java) |
 |   2   |Anonymous Inner class| [Anonymous Inner class](./Java_Enhance/Object/RandomObject/AnonymousInnerClass.java)|
 |   3   | Hash Code | [Record Object](./Java_Enhance/Object/RecordObject/recordObject.java) |
+
+##### Other Object
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   | BigIntegerClass | [BigInteger Class](./Java_Enhance/Object/OtherObject/BigIntegerClass.java) |
+|   2   | BigDecimalClass | [BigDecimal Class](./Java_Enhance/Object/OtherObject/BigDecimalClass.java)|
