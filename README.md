@@ -76,8 +76,17 @@ some java exercise code
 |   2   |Anonymous Inner class| [Anonymous Inner class](./Java_Enhance/Object/RandomObject/AnonymousInnerClass.java)|
 |   3   | Hash Code | [Record Object](./Java_Enhance/Object/RecordObject/recordObject.java) |
 
-##### Other Object
+##### Math class
 | Index | Description | Code |
 |:-----:|:-----------:|:----:|
 |   1   | BigIntegerClass | [BigInteger Class](./Java_Enhance/Object/OtherObject/BigIntegerClass.java) |
 |   2   | BigDecimalClass | [BigDecimal Class](./Java_Enhance/Object/OtherObject/BigDecimalClass.java)|
+
+##### Reflection
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   | reflection-class |[reflection-class](./Java_Enhance/Reflection/ReflectionClass.java) |
+|   2   | reflection-field | [reflection-field](./Java_Enhance/Reflection/ReflectionField.java)|
+|   3   | reflection-method| [reflection-method](./Java_Enhance/Reflection/ReflectionMethod.java)|
+|   4   | reflection-proxy | [reflection-proxy](./Java_Enhance/Reflection/ReflectionProxy.java)|
+|   5   | reflection-inherit| [reflection-inherit](./Java_Enhance/Reflection/ReflectionInherit.java) |
