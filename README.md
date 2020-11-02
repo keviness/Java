@@ -90,3 +90,8 @@ some java exercise code
 |   3   | reflection-method| [reflection-method](./Java_Enhance/Reflection/ReflectionMethod.java)|
 |   4   | reflection-proxy | [reflection-proxy](./Java_Enhance/Reflection/ReflectionProxy.java)|
 |   5   | reflection-inherit| [reflection-inherit](./Java_Enhance/Reflection/ReflectionInherit.java) |
+
+##### Generic 
+| Index | Description | Code |
+|:-----:|:-----------:|:----:|
+|   1   |  generic-interface | [generic-interface](./Java_Enhance/Generic/GenericInterface.java)|
