@@ -1,5 +1,6 @@
 ## Java
-some java exercise code
+&emsp;这是一份Java自学记录。
+&emsp;特此感谢[廖雪峰老师](https://www.liaoxuefeng.com/wiki/1252599548343744)的Java教程，[郝斌老师](https://www.bilibili.com/video/BV1ps411F7Sn?from=search&seid=16056465509220656410)和[动力节点](https://www.bilibili.com/video/BV1Rx411876f?p=684)的教学视频。
 
 ### Java基本程序设计结构
 | Index |  Description   | Code | Notes |
@@ -29,6 +30,8 @@ some java exercise code
 |   7   |   抽象类（abstract）| [Abstract](./Java_Base/OrientObjectProgram/Abstract.java)|
 |   8   |   接口（Interface）  | [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Interface](./Java_Base/OrientObjectProgram/Notes/Interface.md)|
 |   9   |   包（package）|  [Interface](./Java_Base/OrientObjectProgram/Interface.java)| [Package](./Java_Base/OrientObjectProgram/Notes/package.md) |
+
+---
 
 ### Java进阶
 
@@ -89,6 +92,10 @@ some java exercise code
 |   2   | Collection: Map | [Collection: Map](./Java_Enhance/Collection/CollectionMap.java) |
 |   3   | Collection: TreeMap| [Collection: TreeMap](./Java_Enhance/Collection/CollectionTreeMap.java) |
 |   4   | Collection: EnumerateMap| [Collection: EnumerateMap](./Java_Enhance/Collection/CollectionEnumerateMap.java)|
+|   5   | Collection: Set| [Collection: Set](./Java_Enhance/Collection/CollectionSet.java) |
+|   6   | Collection: Queue| [Collection: Queue](./Java_Enhance/Collection/CollectionQueue.java)|
+|   7   | Collection: Dequeue| [Collection: Dequeue](./Java_Enhance/Collection/Dequeue.java) |
+|   8   | Collection: Properties | [Collection: Properties](./Java_Enhance/Collection/Properties.java) |
 
 ##### Reflection
 | Index | Description | Code |
